@@ -1,0 +1,7 @@
+typeracer
+typeracer.exe
+*.o
+.DS_Store
+results.csv
+*.png
+__pycache__/
